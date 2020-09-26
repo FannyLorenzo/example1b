@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">example1b_Fanny</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="nacimiento">00/00/0000</string>
+    <string name="cui">C.U.I.</string>
+    <string name="semestre">Semestre en curso</string>
+    <string name="condición">Matriculado</string>
+    <string name="genero">Género</string>
+    <string name="facultad">Facultad</string>
+    <string name="escuela">Escuela profesional</string>
+    <string name="movil">Celular</string>
+    <string name="direccion">Dirección</string>
+    <string name="correo">Correo</string>
+    <string name="dni">D.N.I.</string>
+    <string name="agregar">Agregar</string>
+</resources>
